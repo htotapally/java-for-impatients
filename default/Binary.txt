@@ -1,0 +1,11 @@
+http://www.pages.drexel.edu/~kjr99/Learning.html
+
+Binary Numbers 
+
+Binary Numbers are made up of bits, or single binary digits, that can be either represented as a 0 or a 1.
+
+i.e: 1001
+
+To determine the value of this binary number, each position that is represented by a must be taken to the power of two. Then each number is added together.
+
+The Process would look like: 10012 = (1 x 23) + (0 x 22) + (0 x 21) + (1 x 20) = 710
