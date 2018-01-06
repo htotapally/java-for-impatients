@@ -32,30 +32,32 @@ public class IntOperations {
 		// the sum is assigned to the variable numberOfInstruments
 		numberOfInstruments = numberOfPens + numberOfPencils;
 
-		System.out.println(numberOfInstruments);
+		System.out.println("Sum of pens and pencils: " + numberOfInstruments);
 
 		// Subtraction
 		// variable declaration
 		// assignment using a statement
 		int morePencils = numberOfPencils - numberOfPens;
-		System.out.println(morePencils);
+		System.out.println("Numbe of more pencils: " + morePencils);
 
 		int lessPens = numberOfPens - numberOfPencils;
-		System.out.println(lessPens);
+		System.out.println("Number of less pens: " + lessPens);
 
 		// Multiplication
 		int product = numberOfPens * numberOfPencils;
-		System.out.println(product);
+		System.out.println("Product of pens and pencils: " + product);
 
 		// Division
 		int factor = numberOfPencils / numberOfPens;
-		System.out.println(factor);
+		System.out.println("Division of pencils by pens: " + factor);
 
 		// Modulo operation symbol = %
 		int x = 19;
 		int y = 3;
-		int moduloResult = 19 % 3;
-		System.out.println(moduloResult);
+		y = 4;
+		y = 5;
+		int moduloResult = x % y;
+		System.out.println("Modulo of " + x + " by " + y + " " + moduloResult);
 		
 
 	}

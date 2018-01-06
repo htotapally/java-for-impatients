@@ -51,6 +51,8 @@ const*	float	native	super	while
 ****	 	added in 5.0
 
 		*/
+
+		// The Java programming language is statically-typed, which means that all variables must first be declared before they can be used
 		System.out.println("This is a template to create a class with main method");
 	}
 }
